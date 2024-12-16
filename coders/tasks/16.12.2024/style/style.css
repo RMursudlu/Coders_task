@@ -1,0 +1,47 @@
+*{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+    
+}
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    margin: auto;
+    background-color: greenyellow;
+    
+}
+table{
+    width: 50%;
+    border: 1px;
+    border-color: black;
+    text-align: left;
+    border-collapse: collapse;
+    margin-top: 50px;
+}
+.table_header{
+    background-color: #fff;
+    
+    
+    
+    
+}
+tr{
+    height: 45px;
+    
+}
+
+th{
+    background-color: yellow;
+    padding: 10px;
+    
+}
+td{
+    background-color: #fff;
+    border-bottom: 0.5px solid grey;
+    padding: 10px;
+}
+
